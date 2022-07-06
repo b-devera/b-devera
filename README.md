@@ -7,7 +7,7 @@
 - 🎓 Studying Software Engineering at San Jose State University
 - 💼 iOS developer and front-end web developer
 - 🌱 Artificial Intelligence and Mobile Software Engineering Enthusiast
-- ✍️  Watching Anime and playing video games
+- 🏔 Traversing the great outdoors and open world games
 - ⌨️  Going down the custom keyboard rabbit hole
 
 ### 🛠 Tech Stack
