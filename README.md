@@ -14,7 +14,7 @@
 - 💻 Java | Dart | Python | JavaScript
 - 🌐 Flutter | React | Node | HTML | CSS
 - 🛢 MySQL | MongoDB
-- 🔧 Eclipse | Android Visual Studio | Xcode | Git
+- 🔧 VSCode | Eclipse | Android Visual Studio | Xcode | Git
 - 🖥 Figma | InVision Studio
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-devera&show_icons=true&theme=dark)
